@@ -25,6 +25,10 @@ p a {
   font-size: 16px;
 }
 
+video {
+  object-fit: contain;
+}
+
 .header, .content {
   text-align: center;
 }
